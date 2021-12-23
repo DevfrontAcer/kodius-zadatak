@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kodius-zadatak/static/css/main.6433862f.css",
+    "main.js": "/kodius-zadatak/static/js/main.57a8f8e5.js",
+    "static/js/787.22333e0e.chunk.js": "/kodius-zadatak/static/js/787.22333e0e.chunk.js",
+    "static/media/Smoke_detector.jpg": "/kodius-zadatak/static/media/Smoke_detector.ff0c97db0fd1989612a8.jpg",
+    "static/media/outdoor_motion_sensor.jpg": "/kodius-zadatak/static/media/outdoor_motion_sensor.d75dd2da92488684888e.jpg",
+    "static/media/wireless_camera.jpg": "/kodius-zadatak/static/media/wireless_camera.4a2de8f78cbd85f4de77.jpg",
+    "static/media/water_leak_sensor.jpg": "/kodius-zadatak/static/media/water_leak_sensor.3b2c30668e63082dc022.jpg",
+    "index.html": "/kodius-zadatak/index.html",
+    "main.6433862f.css.map": "/kodius-zadatak/static/css/main.6433862f.css.map",
+    "main.57a8f8e5.js.map": "/kodius-zadatak/static/js/main.57a8f8e5.js.map",
+    "787.22333e0e.chunk.js.map": "/kodius-zadatak/static/js/787.22333e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6433862f.css",
+    "static/js/main.57a8f8e5.js"
+  ]
+}
